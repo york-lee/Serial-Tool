@@ -1,2 +1,2 @@
 # Serial-Tool
-one of SerialPortTool, reconnect function, each command can be have customized with a delay, save log function,Loop function.
+A SerialPortTool, reconnect function, each command can be have customized with a delay, save log function,Loop function.
